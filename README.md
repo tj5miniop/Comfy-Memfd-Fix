@@ -1,3 +1,5 @@
+# IMPORTANT - UPDATING TO COMFYUI VERSION 0.43.1 FIXES THE ISSUE (https://github.com/Comfy-Org/ComfyUI/commit/d4ecf8edf8a71d2c21604c8d2418b0218e7cc7ae)
+
 # Comfy-Memfd-Fix
 ComfyUI 0.43.0 Fix for Linux 
 
